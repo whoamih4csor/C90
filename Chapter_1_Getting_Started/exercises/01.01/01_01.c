@@ -10,10 +10,10 @@ gcc -ansi 01_01.c
 */
 
 
-#include <stdio.h>
+#include <stdio.h>/*The C library that include I/O operations*/
 
 
-main(){
+main(){ /*this is the entry point*/
     /*
     This code is correct and has no errors.
 
