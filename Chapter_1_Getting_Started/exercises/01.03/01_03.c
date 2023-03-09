@@ -11,7 +11,7 @@ print Fahrenheit-Celsius table
 
 FORMULA -> C = (5/9) (F-32)
 
-NOTE: this second version uses float
+NOTE: this version uses float
 
 to compile:
 gcc -ansi 01_03.c
