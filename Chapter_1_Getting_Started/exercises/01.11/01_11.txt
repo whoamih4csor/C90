@@ -1,0 +1,31 @@
+/*
+AUTHOR: whoamih4csor
+DATE: Saturday, March 11, 2023
+
+Exercise 1-11 How would you test the word count program? What kinds of
+input are most likely to uncover bugs if there are any?
+
+
+*/
+
+/*
+To test the word count program, you can provide different types of input data and compare the output with the expected result. Some examples of input data that can be used to test the program are:
+
+    An empty input: This can be used to test if the program handles empty input correctly.
+
+    A single word: This can be used to test if the program counts a single word correctly.
+
+    Multiple words separated by spaces: This can be used to test if the program counts multiple words correctly.
+
+    Multiple lines of text: This can be used to test if the program handles multiple lines of text correctly.
+
+    Input with tabs and multiple spaces: This can be used to test if the program handles tabs and multiple spaces correctly.
+
+    Input with special characters like punctuation marks: This can be used to test if the program counts words with special characters correctly.
+
+    Input with non-ASCII characters: This can be used to test if the program handles non-ASCII characters correctly.
+
+The input data that is most likely to uncover bugs in the program are the ones that involve different combinations of spaces, tabs, and newline characters. The program should be able to correctly identify the boundaries between words in such cases.
+Additionally, the program should also handle special characters and non-ASCII characters properly.
+
+*/
